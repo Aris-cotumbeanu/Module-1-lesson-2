@@ -1,0 +1,5 @@
+print("welcome to the world of python")
+print(5)
+print("My name is Aris",1)
+print("hello world /n")
+print("welcome to England",end="football is the best")
